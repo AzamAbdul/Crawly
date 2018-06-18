@@ -24,7 +24,7 @@ A basic web crawler written for fun
 * id
 * Start page (id)
 * End page (id)
-* Words Table
+### Words Table ###
 * id
 * Word
 * Created at
