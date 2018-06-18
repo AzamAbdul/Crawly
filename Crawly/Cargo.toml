@@ -1,0 +1,6 @@
+[package]
+name = "Crawly"
+version = "0.1.0"
+authors = ["Azam Abdulkadir <abdulakdirazam@gmail.com>"]
+
+[dependencies]
